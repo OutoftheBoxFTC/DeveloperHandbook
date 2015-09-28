@@ -6,6 +6,12 @@
 
 **Motivation of Change:** We do Y often and it becomes very tedeious. By making the change to do X we would save a large amount of time and would be able to preform better.
 
+**Required before Development:** Before coding can start we need to build W so that the robot can interface with the input. Until then the code cannot be effiecently deployed. Also, the code for the main drive train has not been completed so we can not complete the aditional code till that is finished.
+
+**Optional or Required:** Optional/Required
+
+**Gamemode** *(Endgame, Autonomous, Tele-Op)*: Endgame
+
 **Functionality/Flow:**
 - Main Flow
   * User moves X on the X or Y axis

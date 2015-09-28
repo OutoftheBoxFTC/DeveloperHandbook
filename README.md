@@ -65,10 +65,12 @@ To commit your branch into staging you must first create a pull request. The pul
   1. There is no template for this; however, please be as forthrigh as possible  so the developer can answer the question as direct as possible.
   2. A question may only be closed once the poster agrees their question has been answered.
 - **Research and Development** - If there is a feature that would be a nice to have for the robot and isn't required for the robots to function this type of ticket would be submitted.
-  1. Follow the required: [template](https://github.com/OutoftheBoxFTC/DeveloperHandbook/blob/master/templates/rnd.md) *(The template does not have to be followed word for word but please provide as much information as possible)* 
-  2. Add the "research and development" label upon submission.
-  3. If the project is deemed of importance it will be assigned to a developer or will be put on a backburner for re-evaluation later.
+  1. Follow the required: [template](https://github.com/OutoftheBoxFTC/DeveloperHandbook/blob/master/templates/feature.md) *(The template does not have to be followed word for word but please provide as much information as possible)* 
+  2. Change the submission type to: **Optional**
+  3. Add the "research and development" label upon submission.
+  4. If the project is deemed of importance it will be assigned to a developer or will be put on a backburner for re-evaluation later.
 - **Feature** - If there is a feature that would be a nice to have for the robot and isn't required for the robots to function this type of ticket would be submitted.
   1. Follow the required: [template](https://github.com/OutoftheBoxFTC/DeveloperHandbook/blob/master/templates/feature.md) *(The template does not have to be followed word for word but please provide as much information as possible)*
-  2. Add the "Required Feature" label upon submission.
-  3. The project will be evaluated, prioritized and then assigned to a developer.
+  2. Change the submission type to: **Required**
+  3. Add the "Required Feature" label upon submission.
+  4. The project will be evaluated, prioritized and then assigned to a developer.
