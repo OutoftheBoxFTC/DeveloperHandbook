@@ -77,22 +77,22 @@ To commit your branch into staging you must first create a pull request. The pul
 
 #### Submission Vetting
 A ticket will be read by either a head developer or senior developer who will then begin the vetting process. First they will assign one of three priorities:
-1. **Low Priority** - The project does not need to be completed for a decent amount of time.
-2. **Medium Priority** - The project should be actively be worked on for completion; however, there is no immediate rush for completion
-3. **High Priority** - The project will be worked on no matter and is of the utmost important to get pushed into production. 
+  1. **Low Priority** - The project does not need to be completed for a decent amount of time.
+  2. **Medium Priority** - The project should be actively be worked on for completion; however, there is no immediate rush for completion
+  3. **High Priority** - The project will be worked on no matter and is of the utmost important to get pushed into production. 
 
 Once, or if a project has been accepted the senior or head developer will assign a responsible developer. It is the developers responsibility to provide updates to how long a feature will take and the amount of time left till completion. Additionally a ticket has four ways to reach the closed status.
-1. **Failed to Meet Request Specifications** - If  the submitter did not use the templates provided or failed to provide sufficient information
-2. **Wont Fix** - A change or an idea that was decided to not be pursued further
-3. **Duplicate** - If there is an already preexisting ticket
-4. **Completed** - If the ticket submitter agrees the project has been completed the active developer can close it.
+  1. **Failed to Meet Request Specifications** - If  the submitter did not use the templates provided or failed to provide sufficient information
+  2. **Wont Fix** - A change or an idea that was decided to not be pursued further
+  3. **Duplicate** - If there is an already preexisting ticket
+  4. **Completed** - If the ticket submitter agrees the project has been completed the active developer can close it.
 
 #### Submission Life Cycle
 *This highlights each step in the life cycle of a ticket and what happens between ticket creation and ticket termination*
-1. First the user must create a new issue: [here](https://github.com/OutoftheBoxFTC/DeveloperHandbook/issues) using one of the stated submission types.
-2. A senior/head developer goes through the un-vetted tickets taking two routes:
-  * The ticket is closed and is either re-opened once it has been fixed or stays closed as a mutual agreement between the developer and the submitter
-  * The ticket continues on the submission life cycle
-3. The senior/head developer assigns a priority to a ticket and assigns it to the appropriate developer
-4. The developer will make status updates every meeting while working on the ticket communicating with the submitter the status.
-5. The ticket is closed after all parties deem the solution has been put into production or is not viable at the time.
+  1. First the user must create a new issue: [here](https://github.com/OutoftheBoxFTC/DeveloperHandbook/issues) using one of the stated submission types.
+  2. A senior/head developer goes through the un-vetted tickets taking two routes:
+    * The ticket is closed and is either re-opened once it has been fixed or stays closed as a mutual agreement between the developer and the submitter
+    * The ticket continues on the submission life cycle
+  3. The senior/head developer assigns a priority to a ticket and assigns it to the appropriate developer
+  4. The developer will make status updates every meeting while working on the ticket communicating with the submitter the status.
+  5. The ticket is closed after all parties deem the solution has been put into production or is not viable at the time.
